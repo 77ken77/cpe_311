@@ -1,4 +1,8 @@
 # Kenneth Sumilang
-cpe student
-esl tutor
-🏀🎮
+CPE
+
+🏀
+
+🎮
+
+111011011 11011111 11001101 11010101100
