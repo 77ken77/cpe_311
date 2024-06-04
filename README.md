@@ -1,1 +1,4 @@
-# cpe-311
+# Kenneth Sumilang
+cpe student
+esl tutor
+🏀🎮
