@@ -1,0 +1,12 @@
+HoA 1.1 Knapsack Problem :https://github.com/77ken77/cpe_311/tree/main/Hands-on%20Activity%201.1%20Knapsack%20Problem
+HoA 2.1 Dynamic Programming:https://github.com/77ken77/cpe_311/tree/main/Hands-on%20Activity%202.1%20Dynamic%20Programming
+HoA 3.1 Transportation Using Graphs: https://github.com/77ken77/cpe_311/tree/main/Hands-on%20Activity%203.1%20Transportation%20Using%20Graphs
+HoA 4.1 Tower of Hanoi Problem:https://github.com/77ken77/cpe_311/blob/main/%5BSUMILANG%5D%20HoA%204.1.ipynb 
+HoA 6.1 Introduction to Data Analysis and Tools:https://github.com/77ken77/cpe_311/blob/main/%5BSUMILANG%5D%20Data%20Sci%20-%20Hands-On%20Activity%206.1.ipynb
+Assignment 6.1 EDA on your own dataset: https://github.com/77ken77/cpe_311/tree/main/EDA
+HoA 7.1 Data Collection and Wrangling:https://github.com/77ken77/cpe_311/tree/main/Hands-on%20Activity%207.1%20Data%20Collection%20and%20Wrangling
+HoA 7.2 Webscraping using BeautifulSoup and Requests: https://github.com/77ken77/cpe_311/tree/main/Hands-on%20Activity%207.2%20Web%20Scraping%20with%20Beautiful%20Soup%20and%20Requests
+HoA 8.1 Aggregating Pandas DataFrames:https://github.com/77ken77/cpe_311/tree/main/Hands-on%20Activity%208.1%20Aggregating%20Data%20with%20Pandas
+HoA 9.1 Data Visualization using Pandas and Matplotlib:https://github.com/77ken77/cpe_311/tree/main/9.1%20Data%20Visualization%20using%20Pandas%20and%20Matplotlib
+HoA 9.2 Customized Visualizations using Seaborn: https://github.com/77ken77/cpe_311/tree/main/9.2%20Customized%20Visualizations%20using%20Seaborn
+HoA 10.1 Data Analysis using Python:https://github.com/77ken77/cpe_311/tree/main/10.1%20Data%20Analysis%20using%20Python
